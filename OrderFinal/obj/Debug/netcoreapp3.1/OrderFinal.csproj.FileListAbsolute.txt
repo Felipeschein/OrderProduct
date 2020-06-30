@@ -1,0 +1,13 @@
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\bin\Debug\netcoreapp3.1\OrderFinal.exe
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\bin\Debug\netcoreapp3.1\OrderFinal.deps.json
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\bin\Debug\netcoreapp3.1\OrderFinal.runtimeconfig.json
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\bin\Debug\netcoreapp3.1\OrderFinal.runtimeconfig.dev.json
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\bin\Debug\netcoreapp3.1\OrderFinal.dll
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\bin\Debug\netcoreapp3.1\OrderFinal.pdb
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\obj\Debug\netcoreapp3.1\OrderFinal.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\obj\Debug\netcoreapp3.1\OrderFinal.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\obj\Debug\netcoreapp3.1\OrderFinal.AssemblyInfo.cs
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\obj\Debug\netcoreapp3.1\OrderFinal.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\obj\Debug\netcoreapp3.1\OrderFinal.dll
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\obj\Debug\netcoreapp3.1\OrderFinal.pdb
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\OrderFinal\OrderFinal\obj\Debug\netcoreapp3.1\OrderFinal.genruntimeconfig.cache
